@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MailIt</string>
+    <string name="leave_application">Leave Application</string>
+    <string name="interview_call_letter">Interview Call Letter</string>
+    <string name="resignation_letter">Resignation Letter</string>
+    <string name="appointment_letter">Appointment Letter</string>
+    <string name="sick_leave_letter">Sick Leave Letter</string>
+</resources>
